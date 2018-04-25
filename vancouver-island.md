@@ -5,20 +5,23 @@
 -------------------------------------------------------------------------------> Vancouver Island feels like a world away from bustling Vancouver City.
 ------------------------------------------------------------------------------
 ---
-***Places to go, things to do:***
+***Places To Go & Things To See:***
 
-	1. **Juan De Fuca Provincial Park**
-	A great, unspoiled park in the southern part of Vancouver Island. Loads of beaches and hiking trail options, including the Juan de Fuca Marine Trail, a 47 km wild stretch along the shoreline, China Beach, Sombrio Beach, and Mystic Beach (complete with a waterfall and rope swing for the kid in you.)
+1. ####Juan De Fuca Provincial Park
+A great, unspoiled park in the southern part of Vancouver Island. Loads of beaches and hiking trail options, including the Juan de Fuca Marine Trail, a 47 km wild stretch along the shoreline, China Beach, Sombrio Beach, and Mystic Beach (complete with a waterfall and rope swing for the kid in you.)
 
-	2. **Della Falls**
+2. ####Della Falls
 	If you're looking for even more adventure, head north to Strathcona Provincial Park to take in the beauty of Canada's tallest waterfall. Getting to the trailhead requires a 30 mile boat ride and then the hike can be completed in 2-3 days.
 
   ![Partial view of Della Falls](/desktop/leah/epicodus/my-fav-vacay/img/IMG_2025.jpg "Beautiful Della Falls")
 
-	3. **Salt Spring Island**
+3. ####Salt Spring Island
 	Although technically this island is part of the gulf shore islands, it's only a ferry ride away from Vancouver Island. The locals offer a wide variety of local products, including wine, goat cheese, and ice cream. You can rent bikes and bop around the island for the day and then enjoy the views of the ferries coming in at Ruckle Park on the southern shores.
 
-	4. **Butchart Gardens**
+4. ####Butchart Gardens
+	World famous gardens that need no introducing live just outside of Victoria and offer dozens of spectacular and immaculate gardens all wrapped up into one. We thought the entrance fee was steep, but it was definitely worth it in the end. Plus, they allow dogs!
+
+	4. ##**Butchart Gardens**
 	World famous gardens that need no introducing live just outside of Victoria and offer dozens of spectacular and immaculate gardens all wrapped up into one. We thought the entrance fee was steep, but it was definitely worth it in the end. Plus, they allow dogs!
 
   ![Butchart Gardens, Sunken Garden](/desktop/leah/epicodus/my-fav-vacay/img/IMG_1881.jpg "Sunken Garden")
