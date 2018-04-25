@@ -1,9 +1,11 @@
 #**Vancouver Island**
+
 ![Juan de Fuca, Mystic Beach, Vancouver Island](/desktop/leah/epicodus/my-fav-vacay/img/IMG_1996.jpg "Mystic Beach")
+
 ####_It's not tropical but it's still nice_
 ---
 -------------------------------------------------------------------------------
-> Vancouver Island feels like a world away from bustling Vancouver City.
+ Vancouver Island feels like a world away from bustling Vancouver City.
 ------------------------------------------------------------------------------
 ---
 ***Places To Go & Things To See:***
