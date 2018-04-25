@@ -2,7 +2,8 @@
 ![Juan de Fuca, Mystic Beach, Vancouver Island](/desktop/leah/epicodus/my-fav-vacay/img/IMG_1996.jpg "Mystic Beach")
 ####_It's not tropical but it's still nice_
 ---
--------------------------------------------------------------------------------> Vancouver Island feels like a world away from bustling Vancouver City.
+-------------------------------------------------------------------------------
+> Vancouver Island feels like a world away from bustling Vancouver City.
 ------------------------------------------------------------------------------
 ---
 ***Places To Go & Things To See:***
@@ -19,9 +20,6 @@ A great, unspoiled park in the southern part of Vancouver Island. Loads of beach
 	Although technically this island is part of the gulf shore islands, it's only a ferry ride away from Vancouver Island. The locals offer a wide variety of local products, including wine, goat cheese, and ice cream. You can rent bikes and bop around the island for the day and then enjoy the views of the ferries coming in at Ruckle Park on the southern shores.
 
 4. ####Butchart Gardens
-	World famous gardens that need no introducing live just outside of Victoria and offer dozens of spectacular and immaculate gardens all wrapped up into one. We thought the entrance fee was steep, but it was definitely worth it in the end. Plus, they allow dogs!
-
-	4. ##**Butchart Gardens**
 	World famous gardens that need no introducing live just outside of Victoria and offer dozens of spectacular and immaculate gardens all wrapped up into one. We thought the entrance fee was steep, but it was definitely worth it in the end. Plus, they allow dogs!
 
   ![Butchart Gardens, Sunken Garden](/desktop/leah/epicodus/my-fav-vacay/img/IMG_1881.jpg "Sunken Garden")
